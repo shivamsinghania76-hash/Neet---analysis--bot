@@ -169,3 +169,4 @@ elif app_mode == "Custom PYQ File Analyzer":
         st.info("No file uploaded yet. Download a clean template below to start mapping:")
         template_csv = "year,subject,chapter\n2026,Biology,Molecular Basis of Inheritance\n2026,Physics,Current Electricity"
         st.download_button("📥 Download CSV Template Structure", data=template_csv, file_name="neet_pyq_template.csv", mime="text/csv")
+    
