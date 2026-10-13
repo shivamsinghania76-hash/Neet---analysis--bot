@@ -6,7 +6,7 @@ import io
 
 # Set page configuration
 st.set_page_config(
-    page_title="NEET "Do or Die" Data Analysis Dashboard",
+    page_title='NEET "Do or Die" Data Analysis Dashboard')
     page_icon="🩺",
     layout="wide"
 )
