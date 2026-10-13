@@ -252,4 +252,5 @@ elif app_mode == "Custom PYQ File Analyzer":
             data=template_csv,
             file_name="neet_pyq_template.csv",
             mime="text/csv",
-    )
+        )
+        
